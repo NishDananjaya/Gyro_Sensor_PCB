@@ -1,4 +1,4 @@
-Project Overview
+#Project Overview
 This project involves designing a PCB using the MPU 6050 sensor and an STM32 microcontroller. The MPU 6050 is a 3-axis gyroscope and accelerometer with a Digital Motion Processor (DMP), while the STM32 microcontroller is based on the ARM Cortex-M4 architecture.  
 
 Bill of Materials (BOM)
